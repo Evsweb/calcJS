@@ -1,2 +1,2 @@
 const mainContainer = document.getElementById('container');
-console.log('ke');
+console.log('k');
