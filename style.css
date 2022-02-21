@@ -1,4 +1,22 @@
 body {
   padding: 0;
   margin: 0;
+  background-color: #668B82;
+}
+
+.WhiteTheme {
+  color: red;
+  background-color: #2A2A2A;
+}
+
+.BlackTheme {
+  color: red;
+  background-color: #2A2A2A;
+}
+
+.CalcBorder {
+  width: 280px;
+  height: 600px;
+  border-radius: 20px;
+
 }
